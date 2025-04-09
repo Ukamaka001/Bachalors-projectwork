@@ -5,7 +5,7 @@ from datetime import datetime
 import json
 
 # MQTT Broker Configuration
-BROKER = '127.0.0.1'
+BROKER = "127.31.12.43"
 PORT = 1883
 SUBSCRIBE_TOPIC = 'vehicle/speed'
 
